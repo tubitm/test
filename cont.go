@@ -8,4 +8,5 @@ import (
 func main() {
 	fmt.Println(strings.Count("ComPro", "o"))
 	fmt.Println(strings.Count("Hello World", "l"))
+	fmt.Println(strings.Count("SunDay", "d"))
 }
