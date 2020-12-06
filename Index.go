@@ -7,4 +7,5 @@ import (
 
 func main() {
 	fmt.Println(strings.Index("Hello World", "hello"))
+	fmt.Println(strings.Index("sunday", "day"))
 }
