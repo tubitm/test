@@ -7,4 +7,6 @@ import (
 
 func main() {
 	fmt.Println(strings.Contains("My Name", "My"))
+	fmt.Println(strings.Contains("My Name", "name"))
+	
 }
